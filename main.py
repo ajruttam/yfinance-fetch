@@ -7,7 +7,8 @@ tickers = [
     "GOLDBEES.NS", "SILVERBEES.NS",
     "ASTRAZEN.NS",
     "AAPL", "MSFT", "NVDA", "AMZN", "TSLA",
-    "LICNETFGSC.NS", "SETF10GILT.NS", "LIQUIDBEES.NS"
+    "LICNETFGSC.NS", "SETF10GILT.NS", "LIQUIDBEES.NS",
+    "BTC-USD", "ETH-USD"
 ]
 
 for tick in tickers:
